@@ -22,10 +22,19 @@ switch (key) {
 // }
 // console.log("I outside", i);
 
-var a =5 
-var b =8
-while (a<b) {
-    console.log( "a is less", a);
-    a++
-}
+
+
+// ***While Loops
+// var a =5 
+// var b =8
+// while (a<b) {
+//     console.log( "a is less", a);
+//     a++
+// }
+
+
+// ****Do While loop
+
+
+
 
